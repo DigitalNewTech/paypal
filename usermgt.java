@@ -3,3 +3,4 @@ simon
 dominion
 Obi
 Annick
+Manager
